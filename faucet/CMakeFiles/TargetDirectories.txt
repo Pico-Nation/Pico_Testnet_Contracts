@@ -1,0 +1,3 @@
+/home/user/Desktop/contracts/try/contracts/eos/faucet/CMakeFiles/faucet.dir
+/home/user/Desktop/contracts/try/contracts/eos/faucet/CMakeFiles/edit_cache.dir
+/home/user/Desktop/contracts/try/contracts/eos/faucet/CMakeFiles/rebuild_cache.dir
