@@ -1,0 +1,3 @@
+/home/user/Desktop/staking/contracts/eos/picostaking/CMakeFiles/picostaking.dir
+/home/user/Desktop/staking/contracts/eos/picostaking/CMakeFiles/edit_cache.dir
+/home/user/Desktop/staking/contracts/eos/picostaking/CMakeFiles/rebuild_cache.dir

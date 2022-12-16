@@ -1,0 +1,1 @@
+/usr/bin/cdt-ld CMakeFiles/picostaking.dir/picostaking.cpp.obj -o picostaking.wasm 
